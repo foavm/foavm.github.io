@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.dc305e7e.js",
+    "static/js/42.b16bfbd2.js": "/static/js/42.b16bfbd2.js",
+    "static/media/ChangwonDangamAsac-Bold_0712.otf": "/static/media/ChangwonDangamAsac-Bold_0712.f632124cd5b55a4db461.otf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "serve.json": "/serve.json",
+    "manifest.json": "/manifest.json",
+    "main.dc305e7e.js.map": "/static/js/main.dc305e7e.js.map",
+    "42.b16bfbd2.js.map": "/static/js/42.b16bfbd2.js.map"
+  },
+  "entrypoints": [
+    "static/js/42.b16bfbd2.js",
+    "static/js/main.dc305e7e.js"
+  ]
+}
